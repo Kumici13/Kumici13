@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Kumici13
-- 👀 I’m interested in ...
-C#
 - 📫 How to reach me ...
 lukapikula13@gmail.com
 
